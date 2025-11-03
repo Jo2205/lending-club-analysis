@@ -149,7 +149,7 @@ Run notebooks in order:
 ## 👤 Author
 
 **Data Science Intern**  
-ID Partners Recruitment Project  
+ID Partners Muhamad Ikhsan
 Date: November 2025
 
 ---
@@ -165,9 +165,3 @@ This project is for educational and recruitment purposes.
 - Lending Club for providing the dataset
 - ID Partners for the internship opportunity
 - Open-source community for amazing tools
-
----
-
-## 📞 Contact
-
-For questions or feedback, please contact through ID Partners recruitment team.
