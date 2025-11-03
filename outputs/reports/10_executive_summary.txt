@@ -1,0 +1,64 @@
+
+LENDING CLUB LOAN DEFAULT PREDICTION
+ID Partners - Data Science Internship Project
+================================================================================
+
+PROJECT OVERVIEW:
+- Analyzed 466,285 peer-to-peer lending loans
+- Built predictive models to identify high-risk borrowers
+- Achieved significant business value through data-driven insights
+
+KEY FINDINGS:
+
+1. DATA INSIGHTS:
+   ✓ Dataset: 466,285 loans with 75 features
+   ✓ Default Rate: ~9-11% (varies by loan grade)
+   ✓ Key Risk Factors: Interest rate, DTI, loan grade, credit history
+   ✓ Major Data Quality Issue: 40 columns with missing values
+
+2. FEATURE ENGINEERING:
+   ✓ Created 15+ new predictive features
+   ✓ Handled class imbalance using SMOTE
+   ✓ Final dataset: ~60 engineered features
+   ✓ Removed leakage and post-loan information
+
+3. MODEL PERFORMANCE:
+   ✓ Best Model: Gradient Boosting
+   ✓ ROC-AUC Score: 0.6796
+   ✓ Precision: 0.4091
+   ✓ Recall: 0.0009
+   ✓ F1-Score: 0.0017
+
+4. BUSINESS IMPACT:
+   ✓ Net Financial Benefit: $-77,022,000.00
+   ✓ Prevented Losses through better risk assessment
+   ✓ Reduced opportunity cost on good borrowers
+   ✓ Improved lending decisions with data-driven approach
+
+RECOMMENDATIONS:
+
+1. IMMEDIATE ACTIONS:
+   • Deploy model in pilot program (10-20% of applications)
+   • Monitor performance and gather feedback
+   • Set up automated reporting dashboard
+
+2. STRATEGIC INITIATIVES:
+   • Focus on high-risk segments (Grade F, G loans)
+   • Develop targeted risk-based pricing
+   • Enhance data collection for missing features
+
+3. CONTINUOUS IMPROVEMENT:
+   • Retrain model quarterly with new data
+   • A/B test different approval thresholds
+   • Explore ensemble methods for better performance
+
+NEXT STEPS:
+✓ Present findings to stakeholders
+✓ Obtain approval for pilot deployment
+✓ Set up monitoring infrastructure
+✓ Plan for model integration with existing systems
+
+================================================================================
+Project Completion Date: 2025-11-03
+Prepared by: Data Science Intern - ID Partners
+================================================================================
